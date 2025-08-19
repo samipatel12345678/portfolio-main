@@ -11,23 +11,17 @@ export const metadata: Metadata = {
 
 const projects = [
   {
-    href: "https://vercel.com/samipatel12345678s-projects/portfolio-main-2lol",
+    href: "https://flow-genix-wk5g.vercel.app/",
     label: "Next.js, TypeScript, Tailwind",
-    handle: "Portfolio",
-    des: "Introducing my portfolio: a showcase of my skills, projects, and experiences. Explore my work and learn more about me through this curated collection of my achievements and endeavors.",
+    handle: "FlowGenix",
+    des: "Centralize. Collaborate. Conquer – FlowGenix",
   },
   {
-    href:"https://github.com/samipatel12345678/food-app",
+    href:"https://food-go-omega.vercel.app/",
     label:"Javascript, Node.js, MongoDb, Express.js, React",
-    handle: "Food-app",
+    handle: "FoodGo",
     des:"Introducing my customized food that allows you the features that the generic food delevering apps don't "
 
-  },
-  {
-    href:"https://github.com/samipatel12345678/ProNearBy",
-    label:"Javascript, Node.js, MongoDb, Express.js, React",
-    handle:"MediTrack",
-    des:"Introducing a web app that covers all your needs Regarding Medical Services"
   },
 
 ];
