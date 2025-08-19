@@ -21,9 +21,10 @@ const experience = [
   },
   {
     href:"https://github.com/samipatel12345678",
-    label:"Jan 2024-Present",
-    handel: "Github",
-    des:"This my expoure tot the github , This place really helped me withenhancing my development skills"
+    label:"Aug 2024-Present",
+    handle: "Software Developer",
+    des:"This my expoure tot the github , This place really helped me withenhancing my development skills",
+    skills:"MERN Stack , Supabase , Git/Github, Tailwind"
   },
   
 ];

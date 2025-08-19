@@ -26,8 +26,8 @@ const projects = [
   {
     href:"https://github.com/samipatel12345678/ProNearBy",
     label:"Javascript, Node.js, MongoDb, Express.js, React",
-    handle:"ProNearBy",
-    des:"Introducing a web app that covers all your needs , You can earch for customized services (Carpainter,Delivery guy) in just seconds "
+    handle:"MediTrack",
+    des:"Introducing a web app that covers all your needs Regarding Medical Services"
   },
 
 ];
