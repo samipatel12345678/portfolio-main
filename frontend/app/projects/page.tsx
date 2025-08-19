@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 const projects = [
   {
-    href: "https://portfolio-main-2lol.vercel.app/projects",
+    href: "https://vercel.com/samipatel12345678s-projects/portfolio-main-2lol",
     label: "Next.js, TypeScript, Tailwind",
     handle: "Portfolio",
     des: "Introducing my portfolio: a showcase of my skills, projects, and experiences. Explore my work and learn more about me through this curated collection of my achievements and endeavors.",
