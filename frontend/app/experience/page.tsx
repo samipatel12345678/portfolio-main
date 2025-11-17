@@ -21,9 +21,9 @@ const experience = [
   },
   {
     href:"https://github.com/samipatel12345678",
-    label:"Aug 2024-Present",
+    label:"May 2025-Present",
     handle: "Software Developer",
-    des:"This my expoure tot the github , This place really helped me withenhancing my development skills",
+    des:"Veloce Ai is a ai for CRM company and I am here as an full stack developer",
     skills:"MERN Stack , Supabase , Git/Github, Tailwind"
   },
   
