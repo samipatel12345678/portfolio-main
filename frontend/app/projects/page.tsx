@@ -23,7 +23,13 @@ const projects = [
     des:"Introducing my customized food that allows you the features that the generic food delevering apps don't "
 
   },
+ {
+    href:"https://prescription-ai-front.vercel.app/",
+    label:"Javascript, Node.js, Vercel, Express.js, React",
+    handle: "MedRecord",
+    des:"“A smart, secure app for maintaining complete patient profiles and past disease insights.” "
 
+  },
 
 
 ];
